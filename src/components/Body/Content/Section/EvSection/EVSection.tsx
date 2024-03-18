@@ -5,10 +5,10 @@ import { CommonSection } from '../CommonSection';
 export const EVSection = () => {
   return (
     <CommonSection
-      title="전기차"
+      title="გალერეა"
       titleTailList={[
-        '지구 환경을 품은 현대자동차의',
-        '미래형 모빌리티를 경험해보세요.',
+        '2024 წლის გალერეა',
+        'ყველაზე გაყიდვადი მოდელები',
       ]}
     >
       <Styled.ElectricCar>
@@ -20,25 +20,25 @@ export const EVSection = () => {
         </Styled.ElectricCarImgWrap>
         <Styled.ElectricCarInfo>
           <Styled.ElectricCarInner>
-            <Styled.BadgeRect>NEW</Styled.BadgeRect>
-            <Styled.CarName>아이오닉 6</Styled.CarName>
-            <Styled.SubText>내가 만드는 세상</Styled.SubText>
+            <Styled.BadgeRect>სიახლე</Styled.BadgeRect>
+            <Styled.CarName>დაჯავშნე ვიზიტი</Styled.CarName>
+            <Styled.SubText>გაიარე ტესტ-დრაივი სანამ შეიძენ!</Styled.SubText>
             <Styled.ModelDetailButton href="/kr/ko/e/vehicles/ioniq6/intro">
-              자세히 보기
+              დაჯავშნა
             </Styled.ModelDetailButton>
           </Styled.ElectricCarInner>
           <Styled.Network>
-            <Styled.NetworkTitle>충전소&서비스 네트워크</Styled.NetworkTitle>
+            <Styled.NetworkTitle>რისი გატესტვა შემიძლია?</Styled.NetworkTitle>
             <Styled.NetworkSubText>
-              고객님의 계신 곳 근처의 충전소 및 <Styled.Br />
-              서비스 네트워크를 안내해드립니다.
+              წინასწარ ირჩევთ მანქანას ვებსაიტიდან  <Styled.Br />
+              ჩვენი გუნდი გაამზადებს მანქანას ტესტ-დრაივისთვის !
             </Styled.NetworkSubText>
             <Styled.ButtonWrap>
               <Styled.MoreBlueButton href="/kr/ko/customer-support/service-network/ev-service-network">
-                전기차
+                დაჯავშნე
               </Styled.MoreBlueButton>
               <Styled.MoreBlueButton href="/kr/ko/customer-support/service-network/fcev-service-network">
-                수소전기차
+                აარჩიე მოდელები
               </Styled.MoreBlueButton>
             </Styled.ButtonWrap>
           </Styled.Network>

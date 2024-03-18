@@ -4,7 +4,7 @@ export const ageBaseModelList: AgeBaseModelType = [
     modelList: [
       {
         text: '1위.',
-        carName: '디 올 뉴 그랜저 Hybrid',
+        carName: 'ჰიბრიდი',
         imageUrl: '/images/lineUp/GN02_EXT.jpg',
       },
       {

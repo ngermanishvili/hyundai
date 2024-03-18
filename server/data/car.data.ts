@@ -62,7 +62,7 @@ export const carList = [
   },
   {
     carCode: 'GN01',
-    carName: '디 올 뉴 그랜저',
+    carName: 'ტესტ მოდელი',
     carEngName: 'the-all-new-grandeur',
     carTypeCode: 'P',
     carTypeName: '승용',
@@ -77,7 +77,7 @@ export const carList = [
   },
   {
     carCode: 'GN02',
-    carName: '디 올 뉴 그랜저 Hybrid',
+    carName: 'ჰიბრიდი',
     carEngName: 'the-all-new-grandeur-hybrid',
     carTypeCode: 'P',
     carTypeName: '승용',
@@ -93,7 +93,7 @@ export const carList = [
   },
   {
     carCode: 'MX03',
-    carName: '디 올 뉴 싼타페',
+    carName: 'ყველაზე გაყიდვადი სანტაფე',
     carEngName: 'the-all-new-santafe',
     carTypeCode: 'R',
     carTypeName: 'SUV',
@@ -108,7 +108,7 @@ export const carList = [
   },
   {
     carCode: 'MX04',
-    carName: '디 올 뉴 싼타페 Hybrid',
+    carName: 'ჰიბრიდი',
     carEngName: 'the-all-new-santafe-hybrid',
     carTypeCode: 'R',
     carTypeName: 'SUV',

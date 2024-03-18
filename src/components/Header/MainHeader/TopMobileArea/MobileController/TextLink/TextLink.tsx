@@ -10,17 +10,17 @@ export const TextLink = ({ headerType }: TextLinkProps) => {
   return (
     <Styled.TextLink
       href="/kr/ko/e/vehicles/eco-incentive?utm_source=hyundaicom&amp;utm_medium=display&amp;utm_campaign=2023_quickwin&amp;utm_content=gnb_util"
-      title="전기 · 수소차 보조금 조회"
+      title="აქ დაწერეთ თქვენი ტექსტი"
       target="_blank"
       $headerType={headerType}
     >
-      전기 · 수소차 <b>보조금 조회</b>
+      აქ დაწერეთ  <b>ტექსტი</b>
     </Styled.TextLink>
   );
 };
 
 const Styled = {
-  TextLink: styled(Link)<{ $headerType: HeaderMenuType }>`
+  TextLink: styled(Link) <{ $headerType: HeaderMenuType }>`
     position: relative;
     color: ${props => (props.$headerType === 'Menu' ? '#fff' : '#000')};
 

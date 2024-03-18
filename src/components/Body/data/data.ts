@@ -22,8 +22,8 @@ export const fluidList: FluidType[] = [
       wide: '/contents/mainbanner/sonata-23fl-w.png',
     },
     pageUrl: '/kr/ko/e/vehicles/palisade/intro',
-    title: { text: 'SONATA The Edge', color: 'black' },
-    subText: { text: 'სონატა', color: 'black' },
+    title: { text: 'Hyndai Sonata', color: 'black' },
+    subText: { text: 'ჰიუნდაი სონატა', color: 'black' },
   },
   {
     backgroundUrl: {
@@ -35,8 +35,8 @@ export const fluidList: FluidType[] = [
       wide: '/contents/mainbanner/KONA-Electric-23fc-w.png',
     },
     pageUrl: '/kr/ko/e/vehicles/palisade/intro',
-    title: { text: 'The all-new KONA Electric', color: 'black' },
-    subText: { text: 'ელექტრო', color: 'black' },
+    title: { text: '12000 ლარამდე მწარმოებლის ბონუსი შერჩეულ მოდელებზე', color: 'black' },
+    subText: { text: 'ელექტრო მანქანები', color: 'black' },
   },
   {
     backgroundUrl: {
@@ -48,8 +48,8 @@ export const fluidList: FluidType[] = [
       wide: '/contents/mainbanner/CASPER_car_w.png',
     },
     pageUrl: '/kr/ko/e/vehicles/palisade/intro',
-    title: { text: 'CASPER', color: 'black' },
-    subText: { text: 'კასპერი', color: 'black' },
+    title: { text: 'Hyundai CASPER', color: 'black' },
+    subText: { text: 'ჰიუნდაი კასპერი', color: 'black' },
   },
   {
     backgroundUrl: {

@@ -1,31 +1,31 @@
 export const quickMenuList = [
   {
-    name: '견적내기',
+    name: 'სერვისები',
     pageUrl: '/kr/ko/e/vehicles/estimation',
     imageUrl: '/images/common/button/ico_estimation.png',
   },
   {
-    name: '구매상담',
+    name: 'მანქანები',
     pageUrl: '/kr/ko/e/vehicles/purchase-consult',
     imageUrl: '/images/common/button/ico_estimation.png',
   },
   {
-    name: '시승신청',
+    name: 'შეკეთება',
     pageUrl: '/kr/ko/e/vehicles/test-driving',
     imageUrl: '/images/common/button/ico_test_driving.png',
   },
   {
-    name: '판매처 검색',
+    name: 'ნაწილები',
     pageUrl: '/kr/ko/e/customer/branch',
     imageUrl: '/images/common/button/ico_customer_branch.png',
   },
   {
-    name: '구매혜택',
+    name: 'აქციები',
     pageUrl: '/kr/ko/e/vehicles/monthly-benefit',
     imageUrl: '/images/common/button/ico_monthly_benefit.png',
   },
   {
-    name: '장비예약',
+    name: 'შეკეთება',
     pageUrl:
       '/kr/ko/service-membership/service-network/service-reservation-search',
     imageUrl: '/images/common/button/ico_service_reservation.png',

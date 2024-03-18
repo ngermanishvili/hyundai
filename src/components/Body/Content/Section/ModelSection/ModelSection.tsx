@@ -35,9 +35,9 @@ export const ModelSection = () => {
 
   return (
     <CommonSection
-      title="Model"
+      title="12000 ლარამდე მწარმოებლის ბონუსი შერჩეულ მოდელებზე"
       titleTailList={[
-        '최근 한 달 동안 고객들이 가장 많이 구매하신 모델입니다.',
+        '2023 წლის ყველაზე გაყიდვადი მოდელები',
       ]}
     >
       <Styled.ModelWrap>
@@ -110,7 +110,7 @@ const Styled = {
       }
     }
   `,
-  Button: styled(CommonStyled.Button)<{ $isActive?: boolean }>`
+  Button: styled(CommonStyled.Button) <{ $isActive?: boolean }>`
     display: flex;
     justify-content: center;
     text-align: center;

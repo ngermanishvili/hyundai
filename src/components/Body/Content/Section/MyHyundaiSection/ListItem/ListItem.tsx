@@ -32,7 +32,7 @@ export const ListItem = ({
             ))}
           </Styled.Text>
         )}
-        {title && <Styled.MoreLink href={pageUrl}>자세히 보기</Styled.MoreLink>}
+        {title && <Styled.MoreLink href={pageUrl}>გადმოწერა</Styled.MoreLink>}
       </Styled.TextWrapper>
     </Styled.Item>
   );

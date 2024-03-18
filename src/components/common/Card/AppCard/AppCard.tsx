@@ -5,13 +5,13 @@ export const AppCard = () => {
   return (
     <Styled.AppWrap>
       <Card
-        title="마이현대 APP"
-        linkText="다운로드"
+        title="ჩვეენი აპლიკაცია"
+        linkText="ჩამოტვირთეთ აპლიკაცია"
         linkUrl="https://myhyundai.page.link/app_home"
         descriptionList={[
-          '당신의 카라이프를 책임질',
-          '현대자동차 대표 앱 myHyundai를',
-          '만나보세요.',
+          'გადმოწერე',
+          'როგორც IOS/Android აპლიკაცია',
+          'ჩვენი აპლიკაცია გთავაზობთ საუკეთესო ხარისხის ავტო-ნაწილებს და სერვისებს.',
         ]}
       />
     </Styled.AppWrap>

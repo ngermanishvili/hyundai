@@ -8,10 +8,10 @@ import { HorizontalSlide } from '@/src/components/common/HorizontalSlide/Horizon
 export const MyHyundaiSection = () => {
   return (
     <CommonSection
-      title="myHyundai"
+      title="ჩემი ჰიუნდაი"
       titleTailList={[
-        '이제, 단순히 APP을 넘어서 당신의 카라이프를 책임질',
-        '‘라이프 플랫폼 myHyundai’ 를 만나보세요.',
+        'იხილეთ უახლესი ინფორმაცია',
+        'ჩემი ჰიუნდაი აპლიკაცია',
       ]}
     >
       <Styled.SectionBody>

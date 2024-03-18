@@ -563,7 +563,7 @@ export const lnbMenuTreeList: LnbMenuTreeType[] = [
     ],
   },
   {
-    name: '구매/이벤트',
+    name: 'სერვისები',
     level2List: [
       {
         type: 'Menu',
@@ -710,7 +710,7 @@ export const lnbMenuTreeList: LnbMenuTreeType[] = [
     ],
   },
   {
-    name: '서비스/멤버십',
+    name: 'მოდელები',
     level2List: [
       {
         type: 'Menu',
@@ -881,7 +881,7 @@ export const lnbMenuTreeList: LnbMenuTreeType[] = [
     ],
   },
   {
-    name: '디지털/고객지원',
+    name: 'ავტომობილები',
     level2List: [
       {
         type: 'Menu',
@@ -1013,7 +1013,7 @@ export const lnbMenuTreeList: LnbMenuTreeType[] = [
     ],
   },
   {
-    name: '브랜드',
+    name: 'კონტაქტი',
     level2List: [
       {
         type: 'Menu',
